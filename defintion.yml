@@ -12,5 +12,5 @@ spec:
     image: jenkins/jenkins
     ports: 
      - containerPorts: 8080
-       hostsPorts: 8080
+       hostsPorts: 80
 ...
