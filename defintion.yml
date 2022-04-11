@@ -4,7 +4,7 @@ kind: Pod
 metadata:
  - name: jenkins-Pod
    labels:
-    type: ci-cd
+    type: ci-cd tools
     authour: intelliqit
 spec:
  containers:
