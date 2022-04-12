@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Pod
 metadata:
- name: nginx-Pod
+ name: nginx
  labels:
   type: proxy
   author: intelliqit
